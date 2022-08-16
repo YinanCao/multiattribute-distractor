@@ -1,4 +1,5 @@
 clear;clc;close all;
+addpath(genpath([pwd,'/functions/']))
 modeldir = './modelfits/';
 
 Tmodel = load([modeldir,'Ternary_models_[2022_5_27_17_38_25].mat']);

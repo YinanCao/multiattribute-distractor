@@ -9,3 +9,9 @@ Decisions between two economic goods can be swayed by a third unavailable 'decoy
 
 ## Notes
 To run model fitting or comparison, unzip "VBA-toolbox-master.zip" in ./functions/
+
+## Preprint
+https://www.biorxiv.org/content/10.1101/2022.08.03.502693v3
+
+## eLife paper
+https://elifesciences.org/articles/83316

@@ -1,7 +1,6 @@
 clear;clc;close all;
-currdir = pwd;
-parentdir = fileparts(pwd);
-addpath(genpath([parentdir,'/modelfits/']))
+addpath(genpath('./modelfits/'))
+addpath(genpath('./functions/'))
 load('Binary_models_[2022_5_27_16_9_53].mat') % dynamic
 
 model = {EV_CI,AU_CI,EV_DR}; % 3 models

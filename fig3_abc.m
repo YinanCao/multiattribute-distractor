@@ -1,7 +1,6 @@
 clear;clc;close all;
-currdir = pwd;
-parentdir = fileparts(pwd);
-addpath(genpath([parentdir,'/modelfits/']))
+addpath(genpath('./modelfits/'))
+addpath(genpath('./functions/'))
 load Fig3_maps.mat
 
 % panel a:
@@ -45,8 +44,8 @@ model = {
 {linD.AU_CI,linD.EV_CI,linD.EV_DN,linD.EV_DR}
 {nlD.AU_CI,nlD.EV_CI,nlD.EV_DN,nlD.EV_DR}};
 modelNames = {
-    {'AU (Linear)','EV (Linear)','EV + DN (Linear)','Dual-route (Linear)'}
-    {'AU (NL)','EV (NL)','EV + DN (NL)','Dual-route (NL)'}
+    {'Additive','Multiplicative','Multiplicative + DN','Dual-route'}
+    {'Additive','Multiplicative','Multiplicative + DN','Dual-route'}
     };
 opt.DisplayWin = 0;
 figure('position',[1079,333,502,182])
@@ -99,8 +98,8 @@ model = {
 {linS.AU,linS.EV,linS.EVDN}
 {nlS.AU,nlS.EV,nlS.EVDN}};
 modelNames = {
-    {'AU (Linear)','EV (Linear)','EV + DN (Linear)'}
-    {'AU (NL)','EV (NL)','EV + DN (NL)'}
+    {'Additive','Multiplicative','Multiplicative + DN'}
+    {'Additive','Multiplicative','Multiplicative + DN'}
     };
 figure('position',[641   333   437   175])
 for k = 1:2

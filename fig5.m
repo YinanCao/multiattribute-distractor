@@ -1,5 +1,7 @@
 clear;clc;close all;
 modeldir = './modelfits/';
+addpath(genpath('./modelfits/'))
+addpath(genpath('./functions/'))
 
 Tmodel = load([modeldir,'Ternary_models_[2022_5_27_17_38_25].mat']);
 Bmodel = load([modeldir,'Binary_models_[2022_5_27_16_9_53].mat']);

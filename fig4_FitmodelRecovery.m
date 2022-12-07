@@ -1,6 +1,6 @@
 clear;clc;close all;
-
-addpath(genpath([pwd,'/functions/']))
+addpath(genpath('./modelfits/'))
+addpath(genpath('./functions/'))
 datadir = [pwd,'/datasets/'];
 
 datafile = {

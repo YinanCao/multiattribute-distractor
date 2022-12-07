@@ -1,5 +1,6 @@
 clear; clc; close all;
-
+addpath(genpath('./modelfits/'))
+addpath(genpath('./functions/'))
 parentdir = './modelfits/';
 linD = load([parentdir,'Binary_models_[2022_5_27_16_9_53].mat']);
 linS = load([parentdir,'StaticBinaryModel_Linear_[2022_2_26_17_3_16].mat']);

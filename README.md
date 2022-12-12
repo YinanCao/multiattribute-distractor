@@ -15,3 +15,6 @@ https://www.biorxiv.org/content/10.1101/2022.08.03.502693v3
 
 ## eLife paper
 https://elifesciences.org/articles/83316
+
+## License
+https://github.com/YinanCao/multiattribute-distractor/blob/main/LICENSE.md

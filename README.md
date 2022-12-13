@@ -17,9 +17,9 @@ https://www.biorxiv.org/content/10.1101/2022.08.03.502693v3
 https://elifesciences.org/articles/83316
 
 ## How to cite this work
-APA: 
-Cao, Y., & Tsetsos, K. (2022). Clarifying the role of an unavailable distractor in human multiattribute choice. Elife, 11, e83316.
-BibTeX: 
+APA:  
+Cao, Y., & Tsetsos, K. (2022). Clarifying the role of an unavailable distractor in human multiattribute choice. Elife, 11, e83316.  
+BibTeX: https://github.com/YinanCao/multiattribute-distractor/blob/main/83316.bib
 
 ## License
 https://github.com/YinanCao/multiattribute-distractor/blob/main/LICENSE.md

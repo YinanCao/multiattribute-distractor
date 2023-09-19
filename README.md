@@ -21,8 +21,8 @@ https://elifesciences.org/articles/83316
 **APA**:  
 Cao, Y., & Tsetsos, K. (2022). Clarifying the role of an unavailable distractor in human multiattribute choice. *eLife, 11*, e83316.  
 **BibTeX**: https://github.com/YinanCao/multiattribute-distractor/blob/main/83316.bib
-```diff
-+ Note: The code and analysis scripts in this repository are openly accessible to the public, inviting you to engage, find inspiration, and adapt the code and models pertaining to this work as needed. We kindly request that you adhere to ethical practices by providing proper citations to the paper or this repository when you use our resources. Taking a moment to include a simple reference not only enhances your credibility but also upholds the principles of scholarly integrity. In today's digital age, every action leaves a trace, and acknowledging the origins of your work fosters a culture of respect and collaboration within the academic community. We appreciate your participation in this open platform.
+
+$${\color{blue}Note: The code and analysis scripts in this repository are openly accessible to the public, inviting you to engage, find inspiration, and adapt the code and models pertaining to this work as needed. We kindly request that you adhere to ethical practices by providing proper citations to the paper or this repository when you use our resources. Taking a moment to include a simple reference not only enhances your credibility but also upholds the principles of scholarly integrity. In today's digital age, every action leaves a trace, and acknowledging the origins of your work fosters a culture of respect and collaboration within the academic community. We appreciate your participation in this open platform.}$$
 
 ## License
 https://github.com/YinanCao/multiattribute-distractor/blob/main/LICENSE.md

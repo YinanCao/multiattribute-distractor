@@ -17,6 +17,8 @@ https://www.biorxiv.org/content/10.1101/2022.08.03.502693v3
 ## eLife paper
 https://elifesciences.org/articles/83316
 
+- This manuscript underwent the review process prior to the implementation of eLife's updated evaluation model.
+
 ## How to cite this work
 **APA**:  
 Cao, Y., & Tsetsos, K. (2022). Clarifying the role of an unavailable distractor in human multiattribute choice. *eLife, 11*, e83316.  
